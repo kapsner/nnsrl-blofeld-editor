@@ -13,8 +13,8 @@ To get Sysex working, you have to run the file 'UDP_receive_runtime.maxpat' with
 For further instructions, please read the README-file in the download folder.
 
 If you like my editor, please follow me on facebook and soundcloud.
-[www.facebook.com/NNSRL](www.facebook.com/NNSRL)
-[www.soundcloud.com/nonserial-spacewalker](www.soundcloud.com/nonserial-spacewalker)
+[https://facebook.com/NNSRL](https://facebook.com/NNSRL)
+[https://soundcloud.com/nonserial-spacewalker](https://soundcloud.com/nonserial-spacewalker)
 
 ## GUI
 
